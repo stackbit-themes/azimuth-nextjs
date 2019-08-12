@@ -22,7 +22,7 @@ models:
           - purple
           - green
           - orange
-        default: blue
+        default: orange
       - type: object
         name: header
         label: Header Configuration
@@ -271,7 +271,7 @@ models:
     type: page
     label: Page
     template: page
-    exclude: posts/**
+    exclude: posts
     fields:
       - type: string
         name: title
