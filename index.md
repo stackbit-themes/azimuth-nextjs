@@ -5,12 +5,11 @@ sections:
     component: hero_block.html
     type: heroblock
     image: images/hero.png
-    title: This Is A Big Hero Headline
+    title: Law Firm for Private Fund Organizers
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Helping fund organizers with all their fund formation needs
     actions:
-      - label: Learn More
+      - label: Contact Us Today
         url: /features
   - section_id: features
     component: features_block.html
